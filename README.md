@@ -4,11 +4,7 @@
 
 [Cookie Consent](https://cookieconsent.insites.com/) is a lightweight JavaScript plugin for alerting users about the use of cookies on your website.
 
-It is designed to help you comply with the hideous EU Cookie Law and not make you want to kill yourself in the process. So we made it fast, free, and relatively painless.
-
-## Warning: Phishing attempt
-
-Several users have been emailed with a phishing attempt trying to get them to move the URL they link to from the cdnjs link that is provided on our website as cdnjs is "going away". This is not associated with us and will most likely result in malicious sideloaded code on your website.
+It is designed to help comply with the EU Cookie Law and not make you want to kill yourself in the process. So we made it fast, free, and relatively painless.
 
 ## Version 3.0
 
@@ -77,3 +73,7 @@ Cookie Consent v2
 
 - David Ball (@drball) - CSS / themes
 - Adam Hutchinson (@adjohu) - JavaScript
+
+Cookie Consent v3
+
+- Bell & Pollock P.C. (https://www.bellpollockinjury.com/) 
